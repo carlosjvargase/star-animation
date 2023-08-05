@@ -1,4 +1,4 @@
-# star-animation
+### star-animation
 Usando HTML incorporamos una imagen de un sitio dejandola fija, con CSS le damos tamaño y estilos y con JS le realizamos la interación donde las estrellas se mueven en la imagen!
 
 ### Animación de estrellas
